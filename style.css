@@ -1,3 +1,11 @@
 img{
+<<<<<<< HEAD
 	display: inline-block;
 }
+=======
+	display: block;
+}
+p{
+	color: red;
+}
+>>>>>>> new_feature
