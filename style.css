@@ -1,5 +1,5 @@
 img{
-	display: block;
+	display: inline-block;
 }
 p{
 	color: red;
